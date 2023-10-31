@@ -1,0 +1,22 @@
+日期    时长(h)     工作内容
+9-1:      2         google protobuf使用，RPC学习
+9-4:      2.5       google protobuf使用，RPC学习
+9-5:      2.5       google protobuf使用，RPC学习
+9-6:      2         V5RPC代码
+9-7：     3         Nginx部署demo
+9-9:      7         思路：在平台输入机器人数量，同时初始化const中定义的perside的数量和FootballMatchConfig中的perside数量。outofmatch变量不再需要，应该根据要生成的机器人数量在运行时生成相应数量的robot(后期处理)。在RPC通信上，主要是C++的getInstruction接口不能识别数量，因此需要更新每一个robot的数据，应该在确定了需要更新的robot数量后，从策略服务器一起发送给平台。注意，这里的数量不是(不一定是)有用的robot数量，更准确的说是需要更新动作的robot的数量。
+9-11:     2         protobuf Field字段修改，接口适配
+9-12:     2         protobuf Field字段修改，接口适配
+9-13:     2         protobuf Field字段增加ulong二进制表示更新映射，接口适配
+9-14:     2         对Robot，Wheel，Pos等==，!=运算符重载
+9-15:     2         updateFrom函数适配，更新有变动EntityInfo，getInfo接口。
+9-16:     7         Dedicated Server build
+9-18:     3         add command for unity
+9-19:     2         add command for unity
+9-20:     4         add command for unity
+9-21:     2         
+9-23:     5         remake commandline
+9-24:     3         remake commandline
+9-25:     2         unity build order
+
+合计：    57

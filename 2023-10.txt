@@ -1,0 +1,22 @@
+日期    时长(h)     工作内容
+10-4:      3        commandline bug
+10-7：     2        robots num接口增加
+10-8:      2        robots num
+10-9:      2        pre-commit设置
+10-11：    2        pre-commit
+10-12：    2        const num去除
+10-14:     7        CLI任务
+10-16：    2        CLI任务
+10-17:     2        Json读取
+10-18:     2	    Field字段初始化
+10-19:     3	    Json文件生成
+10-21:     7	    输出格式修改，加入对Placement阶段处理
+10-23:     3	    输出轮数为空bug修复
+10-24:     2	    Field字段中Robot没有position属性bug修复
+10-25:     3	    Field字段中Robot没有position属性bug修复
+10-26:     2	    添加输出位置命令，编译release
+10-28:     7	    修复平台扣分bug，编写README，增加平台速率控制feature
+10-30:
+
+
+合计：    53
